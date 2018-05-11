@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..GameDependencyData>
+  <ID>
+    <name text="zoomzoom"/>
+    <id text="79e34cb6-f20d-4b42-b24b-f9c157f8d2a7"/>
+  </ID>
+  <SystemDependencies>
+    <Element>
+      <ConsumerName text="Camera"/>
+      <ArtDefDependencyPaths>
+        <Element text="Camera.artdef"/>
+      </ArtDefDependencyPaths>
+    </Element>
+  </SystemDependencies>
+</AssetObjects..GameDependencyData>

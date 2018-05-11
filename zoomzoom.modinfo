@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="79e34cb6-f20d-4b42-b24b-f9c157f8d2a7" version="0.9.0">
+  <Properties>
+    <Name>Zoom Zoom</Name>
+    <Description>Improved zoom range</Description>
+    <Teaser>Improved zoom range</Teaser>
+    <Authors>Bradd Szonye</Authors>
+    <AffectsSavedGames>0</AffectsSavedGames>
+  </Properties>
+  <InGameActions>
+    <UpdateArt id="ZOOMZOOM_ART">
+      <Properties>
+        <LoadOrder>10000</LoadOrder>
+      </Properties>
+      <File>zoomzoom.dep</File>
+    </UpdateArt>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/Camera.artdef</File>
+    <File>zoomzoom.dep</File>
+  </Files>
+</Mod>
